@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[34,)"
+showAsResourcePack=false
+license="<MIT License Copyright (c) [2021] [Silivek]>"
+
+[[mods]]
+  modId="soii_warwolves"
+  version="1.16.4-1.0.0"
+  displayName="SoII Warwolves Mod"
+  authors="Silivek"
+  description='''
+  Adds Warwolves to Minecraft!
+  '''

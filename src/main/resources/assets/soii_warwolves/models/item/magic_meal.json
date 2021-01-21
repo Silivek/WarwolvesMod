@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "soii_changelings:items/magic_meal"
+  }
+}
