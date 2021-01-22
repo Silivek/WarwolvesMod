@@ -12,7 +12,7 @@ import org.apache.logging.log4j.Logger;
 import soii.warwolves.util.RegistryHandler;
  
  
-@Mod("soii_warwolves")
+@Mod(Warwolves.MOD_ID)
 public class Warwolves
 {
 	@SuppressWarnings("unused")
