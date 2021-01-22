@@ -31,6 +31,7 @@ public class Warwolves
    
    private void setup(FMLCommonSetupEvent event) {}
    private void doClientStuff(FMLClientSetupEvent event) {}
+   
    public static final ItemGroup TAB = new ItemGroup("warwolvesTab") {
 	   @Override
 	   public ItemStack createIcon() {

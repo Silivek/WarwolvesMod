@@ -34,7 +34,7 @@ If you prefer to use IntelliJ:
 3. Run the following command: "gradlew genIntellijRuns" (./gradlew genIntellijRuns if you are on Mac/Linux)
 4. Refresh the Gradle Project in IDEA if required.
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can run "gradlew --refresh-dependencies" to refresh the local cache. "gradlew clean" to reset everything {this does not affect your code} and then start the processs again.
+If at any point you are missing libraries in your IDE, or you've run into problems you can run "gradlew --refresh-dependencies" to refresh the local cache. "gradlew clean" to reset everything {this does not affect your code} and then start the process again.
 
 Should it still not work, 
 Refer to #ForgeGradle on EsperNet for more information about the gradle environment.
